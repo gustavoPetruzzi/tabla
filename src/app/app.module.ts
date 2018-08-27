@@ -24,6 +24,7 @@ import { LoginPage } from '../pages/login/login';
   entryComponents: [
     MyApp,
     SplashPage,
+    LoginPage
     
   ],
   providers: [
